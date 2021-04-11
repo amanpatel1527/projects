@@ -1,0 +1,38 @@
+#clockcontainer{
+        position: relative;
+        
+        margin: auto;
+        height: 40vw;
+        width: 40vw;
+        background: url(https://img.pngio.com/social-media-marketing-time-management-clock-clock-without-hands-png-of-clock-without-hands-900_900.jpg) no-repeat;
+        background-size: 100%;
+}
+
+#hour,#minute,#second{
+        position: absolute;
+        background: black;
+        border-radius: 10px;
+        transform-origin: bottom;
+}
+#hour{        
+        width: 1.8%;
+        height: 22%;
+        top: 28%;
+        right: 49.4%;
+        opacity: 0.8;
+}
+#minute{
+        width: 1.4%;
+        height: 26%;
+        top: 24%;
+        right: 49.7%;
+        opacity: 0.8;;
+        
+}
+#second{
+        width: 1%;
+        height: 30%;
+        top: 19%;
+        right: 49.67%;
+        opacity: 0.8;
+}
