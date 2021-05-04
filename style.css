@@ -1,0 +1,116 @@
+.container {
+        position: relative;
+        text-align: center;
+        color: white;
+      }
+    
+    
+      .top-left {
+        position: absolute;
+        top: 5%;
+        left: 20%;
+      }
+    
+      .socialmedia {
+        position: absolute;
+        top: 25px;
+        right: 300px;
+        color: black;
+          padding : 0px 40px;
+          font-family: calibrated;
+          font-weight: 100;
+          font-style: normal;
+          font-size: 10px;
+         
+    
+      }
+      
+      .top-right {
+        position: absolute;
+        top: 50px;
+        right: 350px;
+      }
+    
+      .headtable{
+          color: black;
+          padding :10px  20px;
+          font-family: open sans, sans-serif;
+          font-weight: 600;
+          font-style: normal;
+          font: size 16px;
+          line-height: 24px;;
+    
+      }
+    
+      .bookappointment {
+        position: absolute;
+        top: 300px;
+        right: 0px;
+      }
+    
+    .table{
+      border-collapse: collapse;
+      border: 1px solid white;
+    }
+    
+    
+    h1{
+      color: #006eb8;
+       font-family:hurme_geometric_sans_1bold ;
+       font-style: normal;
+       font-weight: 600;
+       font-size:40px;
+       line-height:44px;
+    
+    }
+    
+    .p {
+      PADDING:0% 30%;
+      color: #6a6a6a;
+       font-family:hurme_geometric_sans_1regular ;
+       font-style: normal;
+       font-weight: 400;
+       font-size:14px;
+       line-height:21px;
+    }
+    #more {display: none;}
+     
+    #myBtn{
+      
+      color: #006eb8;
+      border: 0px 0px 5px 0px;
+      background-color: white;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      border-top-color: white;
+      border-left-color:white;
+      border-right-color:white; 
+      border-bottom-color: #006eb8;
+    
+    }
+    
+    .youtube
+    {
+    width: 570px;
+    height: 371px;
+    background-color:#006eb8;
+    border-color: #006eb8;
+    color: white;
+    padding-top: 50px;
+    padding-left: 30px;;
+    
+    
+    
+    }
+    
+    .book{
+      border-radius: 20px;
+      height: 50px;
+      font-size:15px;
+      color: #006eb8;
+      text-decoration:none;
+      
+      
+    }
